@@ -1,0 +1,22 @@
+{
+  "schema_version": "2.0",
+  "packages": [
+    {
+      "name": "Panel fast",
+      "description": "Del all blank lines in clipboard,and paste.",
+      "author": "zivsu",
+      "homepage": "https://github.com/Zhao-Liang/PasteWithoutBlankLines",
+      "last_modified": "2013-05-19 13:09:00",
+      "readme": "https://raw.github.com/Zhao-Liang/PasteWithoutBlankLines/master/README.md",
+      "labels": ["edit paste blankLines"],
+      "platforms": {
+        "*": [
+          {
+            "version": "1.0.0",
+            "url": "https://codeload.github.com/Zhao-Liang/PasteWithoutBlankLines/zip/master"
+          }
+        ]
+      }
+    }
+  ]
+}

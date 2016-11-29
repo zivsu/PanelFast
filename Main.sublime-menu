@@ -1,0 +1,53 @@
+[
+    {
+        "caption": "Preferences",
+        "children": [
+            {
+                "caption": "Package Settings",
+                "children": [
+                    {
+                        "caption": "PanelFast",
+                        "children": [
+                            // {
+                            //     "args": {
+                            //         "file": "${packages}/PanelFast/PanelFast.sublime-settings"
+                            //     },
+                            //     "caption": "Settings \u2013 Default",
+                            //     "command": "open_file"
+                            // },
+                            // {
+                            //     "args": {
+                            //         "file": "${packages}/User/PanelFast.sublime-settings"
+                            //     },
+                            //     "caption": "Settings \u2013 User",
+                            //     "command": "open_file"
+                            // }
+
+                            // Key Bindings - Default
+                            {
+                                "caption": "Key Bindings – Default",
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/PanelFast/Default ($platform).sublime-keymap"
+                                }
+                            },
+                            // Key Bindings - User
+                            {
+                                "caption": "Key Bindings – User",
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/User/Default ($platform).sublime-keymap"
+                                }
+                            },
+                        ],
+                        "id": "panelfast"
+                    }
+                ],
+                "id": "package-settings",
+                "mnemonic": "P"
+            }
+        ],
+        "id": "preferences",
+        "mnemonic": "n"
+    }
+]
