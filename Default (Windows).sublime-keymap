@@ -1,4 +1,6 @@
 [
     { "keys": ["ctrl+h"], "command": "expand_to_left", "args":{"fraction": 0.03}},
-    { "keys": ["ctrl+l"], "command": "expand_to_right", "args":{"fraction": 0.03}}
+    { "keys": ["ctrl+l"], "command": "expand_to_right", "args":{"fraction": 0.03}},
+    { "keys": ["ctrl+j"], "command": "expand_to_top", "args":{"fraction": 0.03}},
+    { "keys": ["ctrl+k"], "command": "expand_to_bottom", "args":{"fraction": 0.03}}
 ]
