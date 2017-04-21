@@ -4,6 +4,8 @@ PanelFast: improve control panel efficiency by shortcuts
 
 Try it out! I think you'll like it.
 
+![image](panel_fast.gif)
+
 Keyboard shortcuts
 ------------------
 PanelFast is driven by keyboard shortcuts.
